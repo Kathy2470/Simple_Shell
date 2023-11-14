@@ -3,6 +3,7 @@
 /**
  * clear_info - initializes info_t struct
  * @info: struct address
+ * kathy n happy
  */
 void clear_info(info_t *info)
 {
