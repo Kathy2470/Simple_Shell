@@ -6,6 +6,7 @@
  * @av: Argument vector
  *
  * Return: 0 on success, 1 on error
+ * kathy n happy
  */
 int main(int ac, char **av)
 {
