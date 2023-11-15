@@ -214,5 +214,12 @@ int replace_shell_alias(info_t *);
 int replace_shell_variables(info_t *);
 int replace_string(char **, char *);
 
+/* Function Declarations */
+int _myhistory(info_t *info);
+int unset_alias(info_t *info, char *str);
+int set_alias(info_t *info, char *str);
+int print_alias(list_t *node);
+int _myalias(info_t *info);
+
 #endif /* _MY_SHELL_H_ */
 
